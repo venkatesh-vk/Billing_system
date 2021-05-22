@@ -1,0 +1,22 @@
+	   Welcome VK Supermarket
+Bill Number:5810
+Customer Name:vinod
+Phone Number: 6369285372
+============================================
+Products		    QTY               Price
+============================================
+
+Bath Soap		     1                30
+Coke		     1                20
+Face cream		     1                100
+Shampoo		     1                120
+Comb		     1                200
+Perfume		     1                10
+Oil		     1                10
+--------------------------------------------                                Total 490.0
+                                Tax  135.2
+
+--------------------------------------------
+                Total Amount        625.2
+
+--------------------------------------------

@@ -1,0 +1,34 @@
+	   Welcome VK Supermarket
+Bill Number:6745
+Customer Name:sumi
+Phone Number: 6369285372
+============================================
+Products		    QTY               Price
+============================================
+
+Bath Soap		     1                30
+Coke		     1                20
+Lays	   	     1                20
+Face cream		     1                100
+Pepsi		     1                30
+Kurkure	   	     1                10
+Shampoo		     1                120
+Fanta		     1                15
+Cheetos	   	     1                5
+Comb		     1                200
+Miranda		     1                20
+Little
+Hearts	   	     1                5
+Perfume		     1                10
+Red bull		     1                100
+Bingo	   	     1                10
+Oil		     1                10
+Soda		     1                40
+Dorito	   	     1                60
+--------------------------------------------                                Total 805.0
+                                Tax  177.6
+
+--------------------------------------------
+                Total Amount        982.6
+
+--------------------------------------------
