@@ -9,7 +9,7 @@ The Supermarket Bill Generation System is a Python application with a graphical 
 - The application offers a user-friendly interface for both supermarket staff and customers.
 - Users can input item details, quantities, and prices easily using the graphical interface.
 
-### Real-Time Bill Calculation
+### Bill Calculation
 
 - The system calculates the total bill amount in real-time as items are added or modified.
 - Users can view the total amount payable before generating the bill.
